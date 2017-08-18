@@ -31,3 +31,4 @@ Things you may want to cover:
 # GalletaApp
 # GalletaApp
 # Galleta
+# Galleta
